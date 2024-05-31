@@ -36,7 +36,7 @@ getGifUrlBasedOnWeather: function (weatherData) {
         "day-cloudy": "<url_to_gif>",
         "cloudy": "<url_to_gif>",
         "cloudy-windy": "<url_to_gif>",
-       "showers": "<url_to_gif>",
+        "showers": "<url_to_gif>",
         "rain": "<url_to_gif>",
         "thunderstorm": "<url_to_gif>",
         "snow": "<url_to_gif>",
